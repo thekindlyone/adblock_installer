@@ -1,0 +1,9 @@
+('C:\\adblock\\setup\\dist\\install.exe',
+ True,
+ False,
+ None,
+ None,
+ [],
+ None,
+ False,
+ 1443407365L)
